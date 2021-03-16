@@ -1,0 +1,10 @@
+{
+    "name": "taahirisaacs/snapscan",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahirisaacs/snapscan",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+}
